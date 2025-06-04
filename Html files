@@ -1,0 +1,68 @@
+<HTML>
+<HEAD>
+  Html we pages
+</HEAD>
+<BODY BGCOLOR="RED">
+<P> HTML (Hyper Text Markup Language) is an important and useful Web Technology which is used to create different types of web pages and websites which can be accessed using the Internet as well. There are different HTML tags which are used in the HTML documents as well and which helps to create a well designed webpage and website as well. Some of the HTML tags which are used in the HTML and HTML documents are as follows:</P>
+<P> <A HREF=CV.HTML> This is a CV. </A> </P>
+<P>
+<OL TYPE="1" START="1">
+<LI> <A HREF="HTML.HTML"> HTML </A> </LI>
+<LI> <A HREF="HEAD.HTML"> HEAD </A> </LI>
+<LI> <A HREF="TITLE.HTML"> TITLE </A> </LI>
+<LI> <A HREF="BODY.HTML"> BODY </A> </LI>
+<LI> <A HREF="P.HTML"> Paragraph </A> </LI>
+<LI> <A HREF="HEADING TAGS.HTML"> HEADING TAGS </A> </LI>
+<LI> <A HREF="HEADER.HTML"> HEADER </A> </LI>
+<LI> <A HREF="FOOTER.HTML"> FOOTER </A> </LI>
+<LI> <A HREF="TABLE.HTML"> TABLE </A> </LI>
+<LI> <A HREF="FONTS.HTML"> FONTS TAGS </A> </LI>
+<LI> <A HREF="IMAGE.HTML> IMAGE TAGS </A> </LI>
+<LI> <A HREF="AUDIO.HTML> AUDIO </A> </LI>
+<LI> <A HREF="VIDEO.HTML"> VIDEO </A> </LI>
+<LI> <A HREF="OBJECT.HTML"> OBJECTS </A> </LI>
+<LI> <A HREF="ANCHOR TAGS.HTML"> ANCHOR </A> </LI>
+<LI> <A HREF="EMP.HTML"> EMPHASIZE </A> </LI>
+<LI> <A HREF="SPAN TAGS.HTML"> SPAN </A> </LI>
+<LI> <A HREF="PRE TAGS.HTML"> PRE </A> </LI>
+<LI> <A HREF="FORMS.HTML"> FORMS </A> </LI>
+<LI> <A HREF="INPUTS.HTML"> INPUTS </A> </LI>
+<LI> <A HREF="BUTTONS.HTML"> BUTTONS </A> </LI>
+<LI> <A HREF="STYLES.HTML"> STYLES </A> </LI>
+<LI> <A HREF="LINKS.HTML> LINKS </A> </LI>
+<LI> <A HREF="META.HTML"> META </A> </LI>
+<LI> <A HREF="SCRIPTS.HTML"> SCRIPTS </A> </LI>
+<LI> <A HREF="LINE BREAKS.HTML"> Line Break </A> </LI>
+<LI> <A HREF="HORIZONTAL LINES.HTML"> HORIZONTAL LINES </A> </LI>
+<LI> <A HREF="IFRAMES.HTML"> IFRAMES </A> </LI>
+<LI> <A HREF="LIST TAGS.HTML"> LIST TAGS </A> </LI>
+<LI> <A HREF="MARQUEE TAGS.HTML"> MARQUEE TAGS </A> </LI>
+<LI> <A HREF="COMMENTS TAGS.HTML"> COMMENTS TAGS </A> </LI>
+</OL><TABLE BORDER="2" WIDTH=75%>
+<TR>
+<TH COLSPAN="3">Student's Record Table</TH>
+</TR>
+<TR>
+<TD>Name</TD><TD>Class</TD><TD>Section</TD>
+</TR>
+<TR>
+<TD>Mike Smith</TD><TD>9</TD><TD>F</TD>
+</TR>
+<TR>
+<TD ROWSPAN="3">STUDENTS</TD><TD>9</TD><TD>F</TD>
+</TR>
+<TR>
+<TD>9</TD><TD>F</TD>
+</TR>
+<TR>
+<TD>9</TD><TD>F</TD>
+</TR>
+<TR>
+<TD COLSPAN="3">Student's Record Table</TD>
+</TR>
+</TABLE>
+<MARQUEE BEHAVIOUR="SLIDE" BGCOLOR="RED" DIRECTION="RIGHT" SCROLLDELAY="100">
+<FONT SIZE="100" FACE="ARIAL" COLOUR=RED>This is a webpage showing how to create the TABLE and MARQUEE in HTML</FONT>
+</MARQUEE>
+</BODY>
+</HTML>
